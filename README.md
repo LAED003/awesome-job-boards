@@ -51,6 +51,7 @@ A curated list of awesome niche job boards.
 
 ## Cloud
 
+* [Cloud Careers Hub](https://cloudcareershub.com/) - Cloud Computing & AI Job Board
 * [CNCF Job Board](https://jobs.cncf.io/) - Kubernetes and cloud native jobs
 
 ## Design
